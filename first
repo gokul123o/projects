@@ -1,0 +1,8 @@
+public class First
+{
+  public static void main(String args[])
+  {
+    String f="Hello world this is my first github code";
+    System.out.println(f);
+  }
+}
